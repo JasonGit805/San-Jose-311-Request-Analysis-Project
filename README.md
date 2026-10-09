@@ -36,6 +36,7 @@ Recommendation: Consider whether service needs and resource allocation differ be
 ## Project Structure
 /data --- The 10 years of data, the combined data file, and the Power BI file are all included here. Note that the Power BI file will be the only one present on GitHub due to my .gitignore file excluding CSVs
 from being uploaded.
+
 /scripts --- Python script used to consolidate CSV files
 
 ## Future Improvements
